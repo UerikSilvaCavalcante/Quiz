@@ -16,7 +16,7 @@ Front-End: Desenvolvido exclusivamente com HTML, CSS, e JavaScript para uma expe
 Design Responsivo: Garantido pelo uso de técnicas modernas de CSS para um layout que se adapta a diferentes tamanhos de tela.
 Como Usar:
 
-Acesse o site: seu-site-do-quiz
+Acesse o site: [seu-site-do-quiz](https://ueriksilvacavalcante.github.io/Quiz/)
 Inicie o quiz clicando no botão de início.
 Responda às perguntas e navegue entre elas usando os botões de navegação.
 Veja sua pontuação final ao terminar o quiz.
